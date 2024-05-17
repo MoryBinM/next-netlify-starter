@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="MoryApps" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>F**K You.js</code>
         </p>
       </main>
 
